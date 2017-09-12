@@ -1,0 +1,40 @@
+table, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th{
+  text-align: left;
+  padding: 10px 30px;
+}
+
+h2{
+  width: 400px;
+  font-size: 35px;
+  border-bottom: 2px solid grey;
+}
+
+form{
+  font-size: 18px;
+  width: 400px;
+  text-align: right;
+}
+
+span{
+  display: block;
+  margin: 10px;
+}
+
+input{
+  padding: 3px 0px 3px 0px;
+  font-size: 15px;
+  font-family: Arial;
+}
+
+#button{
+  background: linear-gradient(to bottom, #fcfcfc 0%,#cfcfcf 100%);
+  padding: 2px 5px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  margin-top: 20px;
+}
